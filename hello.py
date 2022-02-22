@@ -9,7 +9,7 @@ app = Flask(__name__)
 msg = 2
 @app.route('/') 
 def index():
-#	first_name = "Joe" #input("Enter your name:")
+#	first_name = "Joe Bob" #input("Enter your name:")
 #	favorite_pizza = ["Pepperoni", "Cheese", "Supreme", "Mushroom"]
 #	if msg == 1:
 #		return "Hello World! How Are You!!!! Doing Now"
